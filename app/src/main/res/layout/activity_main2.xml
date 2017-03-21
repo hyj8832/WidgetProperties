@@ -17,6 +17,7 @@
         android:text="@string/text2"
         android:textSize="20sp"
         android:textColor="#960075"
+        android:background="#00fcdb"
         />
 
     <TextView
